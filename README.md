@@ -68,11 +68,13 @@ Note : In case you want the program to add a missing word/words then make sure y
 ## Sample output
 #### Sample input 1 : I will go to the office yesterday!
 #### Sample output 1 : I went to the office yesterday!
-<img width="773" alt="Screenshot 2023-06-03 at 1 30 45 PM" src="https://github.com/Mikey-03/CP-Setup/assets/34760247/f21e907b-63dd-4456-b4a2-8306dc18709b">
+<img width="773" alt="Screenshot 2023-06-03 at 1 30 45 PM" src="https://github.com/Mikey-03/Token_Healing_Algorithm/assets/34760247/849d4f2a-fc67-44ab-b1a8-c3abfd85e2b2">
+
 
 #### Sample input 2 : I I I am veY thirsty thirsty.can you plese give guve [MISSING] a glass of [MISSING]? the [MISSING] fox ased the rabbit. I dont have water, the [MISSING] replied.
 #### Sample output 2 : I am very thirsty. Can you please give me a glass of water? The white fox asked the rabbit. I don't have water, the rabbit replied.
-<img width="1272" alt="Screenshot 2023-06-03 at 1 34 55 PM" src="https://github.com/Mikey-03/CP-Setup/assets/34760247/2b694cc5-2ed8-490e-aefc-ecd60c93241f">
+<img width="1272" alt="Screenshot 2023-06-03 at 1 34 55 PM" src="https://github.com/Mikey-03/Token_Healing_Algorithm/assets/34760247/6133abd8-a761-4275-97ac-a36739fb757b">
+
 
  
 ##
