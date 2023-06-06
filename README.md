@@ -24,6 +24,8 @@ python -m spacy download en_core_web_sm
 ```
 ## Usage
 
+Make sure you an active internet connection!
+
 To use the token healing script, follow these steps:
 
 1. Run the "Token_healing_script.py" file in your IDE 
